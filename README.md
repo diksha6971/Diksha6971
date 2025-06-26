@@ -1,6 +1,6 @@
 👩‍💻 About Me
 
-Hello! I'm Diksha, a fresher and aspiring Data Analyst with a strong foundation in data analysis and visualization. I recently completed a Codebasics Bootcamp, where I built several hands-on projects using real-world business scenarios.
+Hello! I'm Diksha, experienced Web Developer with a strong background in building Shopify applications. Lately, I’ve discovered a deep passion for Data Analysis. I've upskilled myself in tools like Excel, SQL, Python, and Power BI, and now focus on turning raw data into actionable insights to drive business growth. I recently completed a Codebasics Bootcamp, where I built several hands-on projects using real-world business scenarios.
 
 I’ve worked extensively with:
 
@@ -53,4 +53,4 @@ Others
 
 Explore my repositories to see how I apply these skills to real-world scenarios!
 
-📬 Feel free to connect or collaborate! I'm actively seeking opportunities in data analytics and open to feedback on my work.
+📬 I'm excited to blend my tech experience with data to solve meaningful business challenges. Let's connect!. I'm actively seeking opportunities in data analytics and open to feedback on my work.
